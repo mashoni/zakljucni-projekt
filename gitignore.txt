@@ -1,4 +1,0 @@
-*.png
-!myfile.png
-myfolder/
-!myfolder/vaja3.txt
